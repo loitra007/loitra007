@@ -5,16 +5,16 @@
 - 📫 How to reach me ... -->
 
 <h1 align="center">Hi 👋, I'm Loi</h1>
-<h3 align="center">A continuous learner from Vietnam</h3>
+<h3 align="center">A continuous learner from Nha Trang, Viet Nam</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=loitra007&color=green&style=flat-square" />
 </p>
 
 - 👀 I’m interested in learning new things to/and solving problems
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Ruby on Rails** and **React**
 
-- 💬 Ask me about **NodeJs, NestJs, Vue3, Jest, Docker, Kubernetes, AWS, Jenkins, Github Action**
+- 💬 Ask me about **NodeJs, NestJs, Vue3, Jest, Cypress, Jenkins, Github Action, Docker, microservices, Kubernetes, AWS, Gitops, ArgoCD, Istio, ...**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/trathailoi/](https://www.linkedin.com/in/trathailoi/)
 
